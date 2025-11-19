@@ -17,7 +17,7 @@
    **Jawaban: Tantangan saya adalah memahami bahasa python karena saya baru menggunakan ini di kelas 11 dan saya bingung apakah kode yang saya masukan sudah benar dan jalan atau belum.**
 
 4. Menurtu kamu AI apa membantu dalam analysis sebua data? 
-...................................................................................... 
+   **Jawaban: AI dapat membantu membuat grafik, heatmap, atau dashboard interaktif sehingga data lebih mudah dipahami.**
 
 
 ### hasil output diagram boxplot
