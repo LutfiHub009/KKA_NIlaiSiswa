@@ -8,10 +8,10 @@
 **Jawaban: BHS Indonesia**
 
 3. Bagaimana visualisasi membantu dalam memahami data? 
-
+**Jawaban: dengan visualisasi itu memudahkan pengguna melihat/menganalisa data yang kompleks**
 Refleksi Siswa 
 1. Apa hal baru yang kamu pelajari dari kegiatan analisis dan visualisasi data? 
-...................................................................................... 
+  **Jawaban: dengan AI saat ingin menganalisis sebuah data kita bisa dengan mudah mengvisualisasikan data tersebut memudahkan kita untuk membaca data yang kompleks.**
 2. Kesulitan apa yang kamu alami dalam membuat grafik?
    **Jawaban: Tantangan saya adalah memahami bahasa python karena saya baru menggunakan ini di kelas 11 dan saya bingung apakah kode yang saya masukan sudah benar dan jalan atau belum.**
 4. Menurtu kamu AI apa membantu dalam analysis sebua data? 
